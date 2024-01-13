@@ -1,2 +1,2 @@
 # PLC_Programming
-Here are some projects on PLC that I made during my B.E. degree at Jadavpur University
+Here are some PLC projects on Industrial Automation that I made during my B.E. degree at Jadavpur University
