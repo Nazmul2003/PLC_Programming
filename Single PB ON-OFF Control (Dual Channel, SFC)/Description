@@ -2,3 +2,7 @@ A single Push Button is used to turn ON or OFF a lamp.
 Dual channel of such system has been created here.
 A short press (less than 2s) will turn the lamp ON, and a long press (more than 2s) will turn the lamp OFF when the lamp is already ON.
 When the lamp is OFF, a long press will turn the lamp ON for 1s and then turn it OFF.
+
+
+
+Instruction: I have uploaded the Project which includes the CFC (program) and SFC (function block) and also an HMI. Use CODESYS V3.5 (preferably SP19 Patch 5) to open it.
